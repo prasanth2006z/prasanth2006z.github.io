@@ -186,8 +186,8 @@ a:hover {
 
 
 .background-img{  
-height: 800px;
-  width: 800px;
+  height: auto;
+  width: 600px;
   background-repeat: no-repeat;
   background-size: cover;
   margin: 5% auto;
