@@ -91,20 +91,6 @@ h2.centre-line span {
 		text-transform: none;
 		text-align: left;
       }
-	  .text2 {        
-        padding-left: 60px;
-		font-family: 'Italiana', Georgia, serif;
-		font-size: 19px;
-		letter-spacing: 0px;
-		word-spacing: 2px;
-		color: #BB1717;
-		font-weight: 400;
-		text-decoration: none;
-		font-style: italic;
-		font-variant: normal;
-		text-transform: none;
-		text-align: left;
-      }
 
 
 a {
@@ -197,3 +183,19 @@ a:hover {
   box-shadow: 0px 0px 5px #ad2a4e;
   position: relative;
 }
+
+.background-img1{  
+  height: auto;
+  width: 400px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 5% auto;
+  padding:10px;
+  border: 1px solid #ad2a4e;
+  border-radius: 4px;
+  box-shadow: 0px 0px 5px #ad2a4e;
+  position: relative;
+  text-align: center;
+}
+
+
